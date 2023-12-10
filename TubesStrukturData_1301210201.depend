@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673511212 source:c:\users\adhit\onedrive\desktop\kumpulan tugas besar\strukdat\tubesstrukturdata_1301210201\flight.cpp
+	"flight.h"
+
+1672553256 c:\users\adhit\onedrive\desktop\kumpulan tugas besar\strukdat\tubesstrukturdata_1301210201\flight.h
+	<iostream>
+
+1672553256 source:c:\users\adhit\onedrive\desktop\kumpulan tugas besar\strukdat\tubesstrukturdata_1301210201\main.cpp
+	"flight.h"
+
